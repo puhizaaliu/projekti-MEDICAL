@@ -699,6 +699,7 @@ input[type="checkbox"]{
     }
     .section .about-info p{
         font-size: 15px;
+        padding: 10px 0;
     }
     .section .about-info a{
         width: 150px;
@@ -747,6 +748,7 @@ input[type="checkbox"]{
     }
     .pacientat .patient h3{
         font-size: 30px;
+        padding-bottom: 10px;
     }
 
         /* Our Doctors */
